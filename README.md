@@ -11,7 +11,7 @@
 ## Algorithms:Scipy
 
 ----
-#What I do
+# What I do
 
 <!--
 **rother12/rother12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
