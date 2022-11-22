@@ -1,9 +1,9 @@
-# I want to be AI,Data Analyst(AI & DBA 가 되고 싶습니다.)
-## Hi, I'M Won Sik(정 원 식) 👋
+# I wanaa an AI,Data Analyst(AI & DBA 가 되고 싶습니다.)
+## Hi, I'm Won Sik(정 원 식) 👋
 
 ---
-### Specially, I had mathematical skills for DB Analysis(ex:GLM, ANOVA, Regression) Based on Mathematical Inference
-### MLR(Maximum Likelihood Ratio) is Powerful tool for Inference, Like this Relation I wanna be your Company's MOST power talentent Team Member"
+### I have mathematical skills for including Mathematical Inference for Database Analysis, e.g. GLM, ANOVA, and Regression.
+### Just as Maximum Likelihood Ratio (MLR) is a powerful tool for inference, I am looking forward to be your company's MOST talented and powerful team member.
 
 ---
 # My major Programming Language is Python
@@ -12,6 +12,9 @@
 
 ----
 # What I do
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Python&logoColor=white">
+
 
 <!--
 **rother12/rother12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
