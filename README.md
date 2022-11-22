@@ -10,8 +10,8 @@
 
 ---
 # My major Programming Language is Python
-## AI:Pytorch (CUDA Activation TITAN V)
-## Algorithms: Scipy, Numpy
+## AI: Pytorch (CUDA Activation TITAN V)
+## Algorithms: Scipy, Numpy... etc
 
 ----
 # My_Skills
@@ -35,13 +35,13 @@
 
 ---
 # What i do
-##pls Check, My Total_project_desribe Reposity
+## pls Check, My Total_project_desribe Reposity
 
-💻 NIMS Research Intern (20.06 ~ 21.02)
+💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning
  
  
  
-💻 AMCG Algorithms Research (22.02 ~ Keep Going)
+💻 AMCG Algorithms Research (22.02 ~ Keep Going) Algorithms for Data Analysis
 <!--
 **rother12/rother12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
