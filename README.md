@@ -1,5 +1,8 @@
-# I wanaa an AI,Data Analyst(AI & DBA 가 되고 싶습니다.)
-## Hi, I'm Won Sik(정 원 식) 👋
+# Hi, I'm Won Sik(정 원 식) 👋
+## I wanaa an AI,Data Analyst(AI & DBA 가 되고 싶습니다.)
+
+
+
 
 ---
 ### I have mathematical skills for including Mathematical Inference for Database Analysis, e.g. GLM, ANOVA, and Regression.
@@ -7,8 +10,8 @@
 
 ---
 # My major Programming Language is Python
-## AI:Pytorch (CUDA Activation)
-## Algorithms:Scipy
+## AI:Pytorch (CUDA Activation TITAN V)
+## Algorithms: Scipy, Numpy
 
 ----
 # My_Skills
@@ -33,6 +36,12 @@
 ---
 # What i do
 ##pls Check, My Total_project_desribe Reposity
+
+💻 NIMS Research Intern (20.06 ~ 21.02)
+ 
+ 
+ 
+💻 AMCG Algorithms Research (22.02 ~ Keep Going)
 <!--
 **rother12/rother12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
