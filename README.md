@@ -1,5 +1,5 @@
 # Hi, I'm Won Sik(정 원 식) 👋
-## I wanaa an AI,Data Analyst(AI & DBA 가 되고 싶습니다.)
+## I am AI,Data Analyst(AI & DBA 입니다.)
 
 
 
