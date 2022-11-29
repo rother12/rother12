@@ -1,4 +1,4 @@
-# Hi, I'm Won Sik(정 원 식) 👋
+# Hi, I'm Won Sik Jung(정 원 식) 👋
 ## I am AI,Data Analyst(AI & DBA 입니다.)
 
 
@@ -37,7 +37,7 @@
 # What i do
 ## pls Check, My Total_project_desribe Reposity
 
-💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning
+💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning for Data Analysis
  
  
  
