@@ -1,6 +1,6 @@
+
 # Hi, I'm Won Sik Jung(정 원 식) 👋
 ## I am AI,Data Analyst(AI & DBA 입니다.)
-
 
 
 
@@ -9,13 +9,8 @@
 ### Just as Maximum Likelihood Ratio (MLR) is a powerful tool for inference, I am looking forward to be your company's MOST talented and powerful team member.
 
 ---
-# My major Programming Language is Python   
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WonSik!%20&desc=WhoAreU?%20&fontSize=60&animation=scaleIn)
 
-
-  #### AI: Pytorch (CUDA Activation TITAN V)
-  #### Algorithms: Scipy, Numpy... etc
-
-----
 # My_Skills
 
 <div align=center><h1>📚 STACKS</h1></div>
@@ -40,28 +35,35 @@
 
   ### CNU: Mathematics& Astronomy
 
-# What i do
+<br/>
 
-## pls Check, My Total_project_desribe Reposity   
+
+
+
+
+# What I do
 ---
-### 💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning for Data Analysis     
+
+## 💻 NIMS (20.06 ~ 21.02) 
+
+### Deep Learning for Data Analysis(Research Intern)
+
+###### -Making Simple CNN Model,(Supervised Model) 
+###### -Classify 30,000 image files with 96% Accuracy      
 
 
- ##### -Making Simple CNN Model,(Supervised Model) 
- ##### -Classify 30,000 image files with 96% Accuracy      
- 
+## 💻 AMCG (22.02 ~ Keep Going)
 
+### Algorithms for Data Analysis(Algorithms Research)
+
+###### -Paper ReProducing( Estiamtion Sensor Signal To Heart-Cells Activity)
+###### -Timeseries Signal Processing   
+###### -3D Model Reconstruction
+###### -Extration Fetal Heart signal from Mother Heart Signal      
+
+### pls Check, My Total_project_desribe Reposity   
 ---
----
-### 💻 AMCG Algorithms Research (22.02 ~ Keep Going) Algorithms for Data Analysis      
-
-
- ##### -Paper ReProducing( Estiamtion Sensor Signal To Heart-Cells Activity)
- ##### -Timeseries Signal Processing   
-
-
- ##### -3D Model Reconstruction
- ##### -Extration Fetal Heart signal from Mother Heart Signal      
+<br>
 ---
  
 <!--
