@@ -47,7 +47,6 @@ CNU: Mathematics& Astronomy
  
  
 💻 AMCG Algorithms Research (22.02 ~ Keep Going) Algorithms for Data Analysis
-- 🔭 I’m currently working on ...
 <!--
 **rother12/rother12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
