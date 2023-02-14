@@ -9,11 +9,11 @@
 ### Just as Maximum Likelihood Ratio (MLR) is a powerful tool for inference, I am looking forward to be your company's MOST talented and powerful team member.
 
 ---
-# My major Programming Language is Python
+# My major Programming Language is Python   
 
 
-## AI: Pytorch (CUDA Activation TITAN V)
-## Algorithms: Scipy, Numpy... etc
+  #### AI: Pytorch (CUDA Activation TITAN V)
+  #### Algorithms: Scipy, Numpy... etc
 
 ----
 # My_Skills
@@ -38,30 +38,30 @@
 ---
 # Education
 
-CNU: Mathematics& Astronomy
+  ###CNU: Mathematics& Astronomy
 
 # What i do
 
-## pls Check, My Total_project_desribe Reposity
+## pls Check, My Total_project_desribe Reposity   
 
-💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning for Data Analysis
+💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning for Data Analysis   
 
 
- -Making Simple CNN Model,(Supervised Model) 
- -Classify 30,000 image files with 96% Accuracy
+ ###-Making Simple CNN Model,(Supervised Model) 
+ ###-Classify 30,000 image files with 96% Accuracy
  
 
 
 
-💻 AMCG Algorithms Research (22.02 ~ Keep Going) Algorithms for Data Analysis
+💻 AMCG Algorithms Research (22.02 ~ Keep Going) Algorithms for Data Analysis   
 
 
- -Paper ReProducing( Estiamtion Sensor Signal To Heart-Cells Activity)
- -Timeseries Signal Processing
+ ###-Paper ReProducing( Estiamtion Sensor Signal To Heart-Cells Activity)
+ ###-Timeseries Signal Processing   
 
 
- -3D Model Reconstruction
- -Extration Fetal Heart signal from Mother Heart Signal
+ ###-3D Model Reconstruction
+ ###-Extration Fetal Heart signal from Mother Heart Signal
  
  
 <!--
