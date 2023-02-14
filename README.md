@@ -43,6 +43,7 @@ CNU: Mathematics& Astronomy
 ## pls Check, My Total_project_desribe Reposity
 
 💻 NIMS Research Intern (20.06 ~ 21.02) Deep Learning for Data Analysis
+
  -Making Simple CNN Model,(Supervised Model) 
  -Classify 30,000 image files with 96% Accuracy
  
