@@ -34,7 +34,7 @@
 </div>
 
 ---
-#Education
+# Education
 
 CNU: Mathematics& Astronomy
 
