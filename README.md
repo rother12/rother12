@@ -48,7 +48,7 @@
      -Classify 30,000 image files with 96% Accuracy      
 
 
-## 💻 AMCG (22.02 ~ Keep Going)
+## 💻 AMCG (22.02 ~ 23.11.19)
 
   ### Algorithms for Data Analysis(Algorithms Research)
 
