@@ -57,6 +57,14 @@
      -3D Model Reconstruction
      -Extration Fetal Heart signal from Mother Heart Signal      
 
+
+## 💻 KJbank (23.11 ~ )
+
+  ### Anti FRAUD And Decting FRAUD Signal(Based On FRAUD Data Analyst)
+
+     -Determination FRAUD CASE
+     -Extract Data insight From FRAUD  
+
 ### pls Check, My Total_project_desribe Reposity   
 ---
 <br>
