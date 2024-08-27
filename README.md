@@ -21,6 +21,8 @@
 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=SAS&logoColor=white">
+
 <br>
   
   
@@ -58,12 +60,13 @@
      -Extration Fetal Heart signal from Mother Heart Signal      
 
 
-## 💻 KJbank (23.11 ~ )
+## 💻 KJBANK (23.11 ~ )
 
-  ### Anti FRAUD And Decting FRAUD Signal(Based On FRAUD Data Analyst)
+  ### Anti FRAUD Determinating Decting FRAUD Signal(Based On FRAUD Data Analyst)
 
-     -Determination FRAUD CASE
-     -Extract Data insight From FRAUD  
+     -Determination FRAUD CASE(Gray zone In Fraud Case Could be Fraud/ Non Fraud)
+     -Extract Data insight From FRAUD CASE
+     -I'm trying to Make Fraud Decting Signal, Approach Abnormal(ML, ESD.. etc)
 
 ### pls Check, My Total_project_desribe Reposity   
 ---
